@@ -1,0 +1,422 @@
+﻿Data;Equipamento;Maquina;Turno;Setor;Manutencao;Origem;Descricao;Classificacao;Causa;Inicio;Termino;Total;Status;Servico;Maquina Parada
+03/01/2022;Sistema Refrigeração;0;1;985;PREV;MEC;Instalação da geladeira ;REFRIGERAÇÃO;Preventiva ;11:00:00;11:30:00;0:30:00;APROVADA;CONSERTO;Não
+11/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Troca de cabo com tomada e plugue;ELÉTRICO;Cabo e tomada com defeito;13:00:00;14:20:00;1:20:00;APROVADA;TROCA;Sim
+05/01/2022;PULTRUSORA;2;1;985;CORR;ELET;Corrigido falha ;TRAÇÃO;Puxador não funcionando ;11:30:00;11:40:00;0:10:00;APROVADA;CONSERTO;Sim
+06/01/2022;PULTRUSORA;1;1;985;CORR;ELET;Teste elétrico e isolação ;ELÉTRICO;Cabos arrebentados ;10:00:00;10:30:00;0:30:00;APROVADA;CONSERTO;Não
+07/01/2022;PULTRUSORA;1;1;994;CORR;MEC;Trocado de bomba e levado para reparo a com defeito ;PNEUMÁTICO;Falta Limpeza com solvente ;10:00:00;10:20:00;0:20:00;APROVADA;CONSERTO;Não
+11/01/2022;PULTRUSORA;4;1;985;CORR;MEC;Colocado bico de ar ;PNEUMÁTICO;Bico de ar desgastado ;14:45:00;15:15:00;0:30:00;APROVADA;TROCA;Não
+11/01/2022;PULTRUSORA;2;1;985;CORR;MEC;Troca de parafusos quebrados e da válvula da serra 3;CORTE;Quebra ;15:00:00;15:30:00;0:30:00;APROVADA;TROCA;Não
+12/01/2022;PULTRUSORA;3;1;985;CORR;MEC;Troca válvula ;PNEUMÁTICO;Válvula quebrada ;14:44:00;14:50:00;0:06:00;APROVADA;CONSERTO;Não
+16/02/2022;PULTRUSORA;1;1;985;CORR;ELET;Trocado sensor quebrado;CORTE;Serra não está cortando;7:20:00;8:20:00;1:00:00;APROVADA;CONSERTO;Não
+18/01/2022;PULTRUSORA;1;1;985;CORR;ELET;Fixação de encoder;TRAÇÃO;Encoder solto do sistema de tração ;10:00:00;10:30:00;0:30:00;APROVADA;CONSERTO;Não
+12/02/2022;PULTRUSORA;1;1;985;CORR;MEC;Instalado 02 engates rápidos;PNEUMÁTICO;Falta de ponto de ar na máquina;10:00:00;11:00:00;1:00:00;APROVADA;TROCA;Não
+18/01/2022;SERRA;4;1;985;CORR;ELET;Regulam de válvula, teste no sensor ;CORTE;Esmagamento de perfil por falta de batente ;9:20:00;9:50:00;0:30:00;APROVADA;CONSERTO;Não
+18/01/2022;SERRA;4;1;985;CORR;ELET;Regulagem de válvulas e teste do sensor ;CORTE;Esmagamento de perfil por falta de batente ;9:20:00;9:50:00;0:30:00;APROVADA;CONSERTO;Não
+20/01/2022;PULTRUSORA;3;1;985;CORR;ELET;Instalação de novo termopar na zona 07;ELÉTRICO;Zelo;9:00:00;9:10:00;0:10:00;APROVADA;TROCA;Sim
+20/01/2022;PULTRUSORA;4;1;985;CORR;MEC;Regulagem dos pistões, prensa das serras ;CORTE;Esmagamento de perfil por falta de batente ;8:00:00;8:57:00;0:57:00;APROVADA;CONSERTO;Não
+20/01/2022;PULTRUSORA;5;1;985;PREV;MEC;Realizado a instalação da bomba pultrusora 05;PNEUMÁTICO;instalação da linha 05;8:40:00;8:45:00;0:05:00;APROVADA;CONSERTO;Sim
+20/01/2022;PULTRUSORA;1;1;985;CORR;ELET;Troca de tomada de silicone ;ELÉTRICO;Quebra da tomada ;10:00:00;10:20:00;0:20:00;APROVADA;CONSERTO;Não
+21/01/2022;PULTRUSORA;2;1;985;CORR;ELET;Troca de tomada de silicone ;ELÉTRICO;Quebra da tomada ;7:00:00;9:00:00;2:00:00;APROVADA;TROCA;Não
+22/01/2022;PULTRUSORA;1;1;985;CORR;ELET;Realizado reparo dos sensores pneumaticos e eletricos ;CORTE;Serra não funciona ;14:00:00;14:30:00;0:30:00;APROVADA;TROCA;
+23/01/2022;PULTRUSORA;4;1;985;CORR;MEC;Realizad o ajuste na serra, necessária troca do sensor ;CORTE;Serra não funciona ;7:30:00;8:00:00;0:30:00;APROVADA;CONSERTO;
+26/01/2022;SERRA;4;1;985;CORR;ELET;Regulagem sensor ;CORTE;Falta de um dispositivo eficaz ;7:20:00;9:00:00;1:40:00;APROVADA;TROCA;
+16/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado sensor quebrado;CORTE;Serra não estão cortando;13:00:00;14:00:00;1:00:00;APROVADA;CONSERTO;
+27/01/2022;PULTRUSORA;3;1;985;CORR;MEC;Troca mancal serra manta ;CORTE;Serra não funciona ;12:00:00;16:30:00;4:30:00;APROVADA;TROCA;
+11/02/2022;PULTRUSORA;3;1;985;CORR;MEC;"Feito troca de registro e mangueira de 1""";PNEUMÁTICO;Registro quebrado;9:30:00;9:35:00;0:05:00;APROVADA;CONSERTO;
+27/01/2022;PULTRUSORA;4;1;985;CORR;ELET;Montadas tomadas para resistências;ELÉTRICO;Falta de tomadas das resitências;14:30:00;15:00:00;0:30:00;APROVADA;CONSERTO;Não
+29/01/2022;PULTRUSORA;2;1;985;PREV;MEC;Troca da bomba da pultrusora ;PNEUMÁTICO;Preventiva ;0:00:00;24:00:00;23:00:00;ADIADA;CONSERTO;Não
+29/01/2022;PULTRUSORA;1;1;985;PREV;MEC;Troca das bombas da pultrusora ;PNEUMÁTICO;Preventiva ;0:00:00;24:00:00;24:00:00;ADIADA;CONSERTO;Não
+29/01/2022;SERRA;4;1;985;CORR;MEC;Realizado fixação da base da serra;CORTE;Berço solto ;0:00:00;24:00:00;24:00:00;ADIADA;CONSERTO;Não
+11/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado tomada de silicone;ELÉTRICO;Tomada com defeito;8:00:00;10:00:00;2:00:00;APROVADA;TROCA;Não
+11/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado Cabos por novos;ELÉTRICO;Cabo duplo com defeito ;12:40:00;13:00:00;0:20:00;APROVADA;INSTALAÇÃO;Não
+01/02/2022;PULTRUSORA;2;1;985;CORR;MEC;Manutenção da corrente ;TRAÇÃO;Corrente arebentada do puxador ;15:00:00;16:10:00;1:10:00;APROVADA;TROCA;Não
+01/02/2022;PULTRUSORA;3;1;985;CORR;MEC;Conectado ;PNEUMÁTICO;Conectar mangueira da bomba ;10:10:00;10:30:00;0:20:00;APROVADA;CONSERTO;Não
+01/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado por cabos novos;ELÉTRICO;Cabos antigos danificados;17:40:00;19:00:00;1:20:00;APROVADA;CONSERTO;Não
+01/02/2022;PULTRUSORA;3;1;985;CORR;ELET;Feito troca de termopares danificados;ELÉTRICO;Cabo do termopar 1 e 11 com defeito;8:00:00;12:00:00;4:00:00;APROVADA;CONSERTO;Não
+01/02/2022;PULTRUSORA;2;1;985;CORR;ELET;Feito troca de termopares danificados;ELÉTRICO;Termopar com problema;16:40:00;17:20:00;0:40:00;APROVADA;TROCA;Não
+02/02/2022;PULTRUSORA;1;1;985;CORR;ELET;Reconectados os cabos e rearmado disjuntor;ELÉTRICO;Cabos desconectados;13:15:00;14:15:00;1:00:00;APROVADA;TROCA;Não
+03/02/2022;PULTRUSORA ;4;1;985;CORR;ELET;Serra não liga;CORTE;Disjuntor desarmado;8:00:00;9:00:00;1:00:00;APROVADA;CONSERTO;Não
+03/02/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito troca de bomba;PNEUMÁTICO;Bomba travada;14:30:00;14:50:00;0:20:00;APROVADA;TROCA;Não
+03/02/2022;PULTRUSORA;5;1;985;CORR;MEC;Troca de pino com travamento;PNEUMÁTICO;Pino travado ;7:00:00;8:30:00;1:30:00;APROVADA;TROCA;Não
+05/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado termopar;ELÉTRICO;Termopar com problema;13:00:00;15:00:00;2:00:00;APROVADA;TROCA;Não
+06/02/2022;PULTRUSORA;3;1;985;CORR;MEC;Troca de mangueiras;PNEUMÁTICO;Mangueira com vazamento ;8:00:00;10:00:00;2:00:00;APROVADA;TROCA;Não
+08/02/2022;SERRA;3;1;985;CORR;MEC;Feito ajuste do comando serra e pistão pneumatico ;CORTE;Serra não funciona ;10:30:00;11:00:00;0:30:00;APROVADA;CONSERTO;Não
+08/02/2022;SERRA;4;1;985;CORR;ELET;Feito o ajuste do sensor não estava aceitando comando ;CORTE;Falha no sensor de corte de perfil ;10:40:00;11:10:00;0:30:00;APROVADA;INSTALAÇÃO;Não
+08/02/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito o ajuste do sensor e valvulas pneumaticas ;TRAÇÃO;Puxador 1 travado ;8:00:00;9:00:00;1:00:00;APROVADA;TROCA;Não
+08/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Puxador 1 não funciona;TRAÇÃO;Operador desligou o puxador;10:00:00;14:00:00;4:00:00;APROVADA;TROCA;Não
+08/02/2022;PULTRUSORA;4;1;985;CORR;ELET;troca de cabos de alimentação das resitências;ELÉTRICO;Tempo de uso em alta temperatura;16:20:00;18:00:00;1:40:00;APROVADA;TROCA;Não
+08/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado tomada de silicone;ELÉTRICO;Tomada com defeito;12:52:00;13:20:00;0:28:00;APROVADA;TROCA;Não
+08/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado termopar;ELÉTRICO;Termopar com problema;11:13:00;11:14:00;0:01:00;APROVADA;TROCA;Não
+16/02/2022;PULTRUSORA;1;1;985;CORR;ELET;Colocado serra no lugar e ajustado sensor;CORTE;Serra não funciona ;16:30:00;16:50:00;0:20:00;APROVADA;CONSERTO;Não
+09/02/2022;SERRA;3;1;985;CORR;MEC;Feito ajuste na serra;CORTE;Serra com defeito ;10:48:00;10:58:00;0:10:00;APROVADA;CONSERTO;Não
+09/02/2022;PULTRUSORA;3;1;985;CORR;MEC;Feito ajuste temperatura e troca cabo eletrico ;ELÉTRICO;Falha na temperatura solicitada ;9:50:00;10:10:00;0:20:00;APROVADA;CONSERTO;Não
+09/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Armado disjuntor;ELÉTRICO;Serra não liga;14:00:00;16:00:00;2:00:00;APROVADA;CONSERTO;Não
+10/02/2022;PULTRUSORA;3;1;985;CORR;ELET;Montagem de cabo;ELÉTRICO;Cabo com defeito;7:26:00;7:30:00;0:04:00;APROVADA;TROCA;Não
+10/02/2022;PULTRUSORA;4;1;985;CORR;MEC;Troca de mangueira, cosertado pé e nivelado novamente;CORTE;Mangueir estourada, serra desregulada, pé quebrado e fora de nível;10:30:00;10:55:00;0:25:00;APROVADA;TROCA;Não
+10/02/2022;TORRE ALPINA;0;1;985;PREV;ELET;Desligado ventilador da torre alpina;ELÉTRICO;Ruído alto;10:30:00;11:30:00;1:00:00;APROVADA;TROCA;Não
+10/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado cabo e tomada;ELÉTRICO;Tomada com defeito;8:00:00;8:30:00;0:30:00;APROVADA;TROCA;Não
+17/02/2022;PULTRUSORA;3;1;985;CORR;ELET;Feito troca de termopares danificados;ELÉTRICO;Termopar com problema;16:50:00;17:20:00;0:30:00;APROVADA;CONSERTO;Não
+17/02/2022;PULTRUSORA;1;1;985;CORR;ELET;Trocado disjuntor em curto;ELÉTRICO;Motor da serra em curto;18:10:00;19:20:00;1:10:00;APROVADA;CONSERTO;Não
+17/02/2022;SERRA CIRCULAR ;0;1;985;CORR;MEC;Feito troca do carvãoda serra;CORTE;Serra não funciona ;9:45:00;11:50:00;2:05:00;APROVADA;TROCA;Não
+17/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Feito troca do pistão travado;TRAÇÃO;Cabos co defeito/ troca de tomadas;8:35:00;11:50:00;3:15:00;APROVADA;TROCA;Não
+17/02/2022;SERRA;4;1;985;CORR;ELET;Feito ajuste no sensor de regulagem da serra;CORTE;Sensor não está fazendo leitura;7:00:00;9:00:00;2:00:00;APROVADA;CONSERTO;Não
+18/02/2022;SERRA;4;1;985;CORR;ELET;Suporte do pitão solto;CORTE;Serra não está cortando e borracha;11:00:00;11:30:00;0:30:00;APROVADA;TROCA;Não
+18/02/2022;PULTRUSORA;2;1;985;CORR;MEC;Trocado eixo do disco;CORTE;Serra com barulho no rolamento;13:05:00;15:30:00;2:25:00;APROVADA;TROCA;Não
+19/02/2022;BOMBA DE RESINA;2;1;985;CORR;MEC;Trocado 01 registro e 01 bico de ar;PNEUMÁTICO;Registro da bomba quebrado;16:00:00;17:30:00;1:30:00;APROVADA;CONSERTO;Não
+19/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Feito revisão e troca de 13 tomadas;ELÉTRICO;verificar cabos da pultrusão;7:20:00;7:21:00;0:01:00;APROVADA;TROCA;Não
+19/02/2022;PULTRUSORA;4;1;985;CORR;MEC;Substituido bomba e feito limpeza na cuba;PNEUMÁTICO;Bomba diafragma  ;14:00:00;15:00:00;1:00:00;APROVADA;INSTALAÇÃO;Não
+19/02/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito limpeza na bomba diafragma ;PNEUMÁTICO;Bomba com ar;9:40:00;10:30:00;0:50:00;APROVADA;CONSERTO;Não
+19/02/2022;PULTRUSORA;3;1;985;CORR;MEC;Feito lubrificação em todas as mangueiras da unidade hidráulica dos puxadores;PNEUMÁTICO;Lubrificação nas colunas dos puxadores;7:00:00;8:00:00;1:00:00;APROVADA;TROCA;Não
+19/02/2022;PULTRUSORA;5;1;985;CORR;ELET;Feito revisão nas resitências, 11 foram descartadas e 18 reaproveitadas;ELÉTRICO;Verificar resitências;8:00:00;13:13:00;5:13:00;APROVADA;TROCA;Não
+20/02/2022;PULTRUSORA;4;1;985;CORR;ELET;"Trocado bomba e mangueira de 1""";PNEUMÁTICO;Bomba diafragma não puxa material;15:10:00;15:19:00;0:09:00;APROVADA;TROCA;Não
+21/02/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito troca de cabos;ELÉTRICO;cabos quebrados;15:30:00;17:00:00;1:30:00;APROVADA;CONSERTO;Não
+21/02/2022;PULTRUSORA;4;1;985;CORR;MEC;"Trocado 01 bomba de 2""";PNEUMÁTICO;Troca de bomba;14:49:00;15:30:00;0:41:00;APROVADA;CONSERTO;Não
+21/02/2022;PULTRUSORA;2;1;985;CORR;ELET;Trocado relê de estado sólido;ELÉTRICO;Tomadas com defeito;8:55:00;9:05:00;0:10:00;APROVADA;TROCA;Não
+22/02/2022;PULTRUSORA;2;1;995;CORR;ELET;Feito regulagem no fim de curso;CORTE;Serra parada na descida ;15:10:00;15:50:00;0:40:00;APROVADA;CONSERTO;Não
+24/02/2022;PULTRUSORA;3;1;985;CORR;ELET;Trocado Cabos por novos;ELÉTRICO;Cabo queimado;8:40:00;9:00:00;0:20:00;APROVADA;TROCA;Não
+24/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Feito troca de termopares danificados;ELÉTRICO;Termopar com problema;9:00:00;9:11:00;0:11:00;APROVADA;TROCA;Não
+25/02/2022;PULTRUSORA;4;1;985;CORR;ELET;Feito regulagem no sensor;CORTE;Serra não funciona ;8:30:00;11:30:00;3:00:00;APROVADA;TROCA;Não
+25/02/2022;PULTRUSORA;3;1;985;CORR;ELET;Feito ajuste e regulado sensor;CORTE;Sensor parou;13:00:00;15:00:00;2:00:00;APROVADA;TROCA;Não
+25/02/2022;PULTRUSORA;3;1;985;CORR;ELET;Trocado pistão;TRAÇÃO;Pistão quebrado;7:50:00;8:15:00;0:25:00;APROVADA;TROCA;Não
+25/02/2022;PULTRUSORA;3;1;985;CORR;ELET;Entregue outro cabo revisado;ELÉTRICO;Troca de tomada;11:20:00;11:40:00;0:20:00;APROVADA;TROCA;Não
+26/02/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito regulagem no sensor;CORTE;Sensor de corte não está funcionando;8:40:00;9:00:00;0:20:00;APROVADA;CONSERTO;Não
+26/02/2022;PULTRUSORA;1;1;985;CORR;ELET;Feito troca de tomadas;ELÉTRICO;Plug quebrado;14:00:00;19:00:00;5:00:00;APROVADA;TROCA;Não
+27/02/2022;PULTRUSORA;2;1;985;CORR;ELET;Feito ajuste no sensor  ;CORTE;Serra não está cortando  ;15:00:00;16:00:00;1:00:00;APROVADA;CONSERTO;Não
+27/02/2022;PULTRUSORA;1;1;985;CORR;MEC;Feito ajuste no sensor da serra;CORTE;Serra cortando e danificando;13:50:00;14:00:00;0:10:00;CANCELADA;CONSERTO;Não
+01/03/2022;PULTRUSORA;4;1;985;CORR;MEC;Trocado bomba  ;PNEUMÁTICO;Troca de bomba;7:05:00;7:40:00;0:35:00;APROVADA;CONSERTO;Não
+01/03/2022;PULTRUSORA;1;1;985;CORR;MEC;Colocado engate rápido;PNEUMÁTICO;Sem engate;10:30:00;11:20:00;0:50:00;APROVADA;CONSERTO;Não
+09/03/2022;PULTRUSORA;1;1;985;PREV;MEC;Fixado enconder na estrutura e reposicionada corrente de tração;ELÉTRICO;Precisa regular;14:10:00;14:30:00;0:20:00;APROVADA;CONSERTO;Não
+10/03/2022;PULTRUSORA;2;1;985;CORR;ELET;Efetuado troca de tomada steck 2 P+T fêmea;ELÉTRICO;Pino rompido ;13:10:00;13:45:00;0:35:00;APROVADA;TROCA;Não
+10/03/2022;PULTRUSORA;6;1;985;CORR;ELET;Feito testes nas tomadas e constatado que era necessário trocar relê de estado sólido ;ELÉTRICO;Tomada não está funcionando tomada 8;15:05:00;16:40:00;1:35:00;APROVADA;TROCA;Não
+05/03/2022;PULTRUSORA;1;1;985;CORR;ELET;Troca de termopar danificado;ELÉTRICO;Parou de funcionar ;9:20:00;9:30:00;0:10:00;APROVADA;TROCA;Não
+03/03/2022;PULTRUSORA;2;1;985;CORR;ELET;Troca de termopar danificado;ELÉTRICO;Está caindo a temperatura;10:15:00;10:45:00;0:30:00;APROVADA;TROCA;Sim
+05/03/2022;PULTRUSORA;4;3;985;CORR;ELET;Foi feito ajuste sensores vibração serra, sensor desregulado sensibilidade;CORTE;Serra não liga ;7:10:00;8:30:00;1:20:00;APROVADA;INSTALAÇÃO;Sim
+10/03/2022;PULTRUSORA;6;1;985;CORR;ELET;Posição de termopar trocada. Foi localizado e colocado na posição correta;ELÉTRICO;Parou de funcionar;9:55:00;11:10:00;1:15:00;APROVADA;CONSERTO;Não
+08/03/2022;SERRA;4;1;985;CORR;MEC;Defeito não era serra, operador alimentou pressão hidraulica acontece esmagamento do tubo tramontina;CORTE;Aumento da pressão;7:15:00;8:00:00;0:45:00;APROVADA;INSTALAÇÃO;Não
+05/03/2022;PULTRUSORA;4;2;985;CORR;ELET;Efetuado troca por 02 cabos revisados;ELÉTRICO;Troca de tomadas cabos 2;15:30:00;15:45:00;0:15:00;APROVADA;TROCA;Sim
+05/03/2022;PULTRUSORA;6;2;985;CORR;ELET;Identificado cabo que estava conectado errado ;ELÉTRICO;Sensor serra;15:25:00;17:40:00;2:15:00;APROVADA;INSTALAÇÃO;Sim
+05/03/2022;PULTRUSORA;3;1;985;CORR;ELET;Trocado termopar;ELÉTRICO;Parou de funcionar;14:15:00;14:30:00;0:15:00;APROVADA;TROCA;Não
+05/03/2022;SERRA;4;1;985;CORR;ELET;Foi feito ajuste no sensor ;CORTE;Parou de funcionar;7:20:00;7:40:00;0:20:00;APROVADA;INSTALAÇÃO;Sim
+03/03/2022;PULTRUSORA;6;1;985;CORR;MEC;Feito ajuste na corrente do incoder;ELÉTRICO;Arrumar corrente ;8:55:00;9:40:00;0:45:00;APROVADA;INSTALAÇÃO;Não
+09/03/2022;PULTRUSORA;6;1;985;CORR;MEC;Regulado válvula pistão;CORTE;Serra esta esmagando a peça ;10:30:00;10:45:00;0:15:00;APROVADA;CONSERTO;Sim
+05/03/2022;SERRA;4;1;985;CORR;ELET;Regulagem do sensor e na suporte do mesmo ;CORTE;Sensor parou de funcionar ;10:20:00;10:40:00;0:20:00;APROVADA;CONSERTO;Não
+06/03/2022;SERRA;6;1;985;CORR;MEC;Regulagem da válvula dos pistões prensadores;CORTE;Precisa coloca uma borracha, ta batendo seco em cima do perfil;11:15:00;11:35:00;0:20:00;APROVADA;CONSERTO;Sim
+06/03/2022;PULTRUSORA;6;1;985;CORR;MEC;Regulagem do sensor e suporte;CORTE;Parou de funcionar ;11:50:00;12:10:00;0:20:00;APROVADA;CONSERTO;Sim
+10/03/2022;PULTRUSORA;6;1;985;CORR;MEC;Refixado regulador de pressão que havia se soltado;CORTE;Vazamento de ar na serra;17:35:00;18:00:00;0:25:00;APROVADA;CONSERTO;Não
+09/03/2022;PULTRUSORA;2;1;985;CORR;ELET;Cabo sem problemas mas mesmo assim feito troca de terminais ;ELÉTRICO;Parou de funcionar;10:35:00;10:45:00;0:10:00;APROVADA;TROCA;Sim
+06/03/2022;SERRA;6;1;985;CORR;ELET;Lubrificação e regulagem das válvulas;CORTE;Precisa fazer lubrificação, trocar rolamento;11:45:00;12:10:00;0:25:00;APROVADA;CONSERTO;Sim
+08/03/2022;PALETEIRA;0;2;985;CORR;ELET;Bateria não está carregando (será enviada para empilha flux);ELÉTRICO;Não está funcionando ;15:00:00;15:10:00;0:10:00;APROVADA;CONSERTO;Não
+02/03/2022;PULTRUSORA;4;1;985;CORR;ELET;Regulagem da posição do sensor fotoelétrico ;ELÉTRICO;Parou de funcionar;15:15:00;15:25:00;0:10:00;APROVADA;CONSERTO;Sim
+01/03/2022;PULTRUSORA;4;3;985;CORR;ELET;Executado ;PNEUMÁTICO;Cano de ar comprimido quebrou;7:00:00;8:57:00;1:57:00;APROVADA;CONSERTO;Não
+01/03/2022;PULTRUSORA;4;;985;CORR;ELET;Feito troca valvula proporcional eletrico hidraulico ;PNEUMÁTICO;Está desligando;9:40:00;10:30:00;0:50:00;APROVADA;INSTALAÇÃO;Não
+02/03/2022;PULTRUSORA;6;;985;CORR;ELET;Cabo quebrado ;ELÉTRICO;Não esta marcando iconder;20:44:00;21:40:00;0:56:00;APROVADA;INSTALAÇÃO;Não
+02/03/2022;PULTRUSORA;6;;985;CORR;ELET;Troca bobina;TRAÇÃO;Defeito no puxador não está abaixando;20:40:00;20:50:00;0:10:00;APROVADA;INSTALAÇÃO;Não
+02/03/2022;PULTRUSORA;6;;985;CORR;ELET;Cabo alimentação das resistencia n pçs;ELÉTRICO;Cabos novos ;21:50:00;22:30:00;0:40:00;APROVADA;INSTALAÇÃO;Não
+03/03/2022;PULTRUSORA;1;;985;CORR;ELET;Troca de botões liga e desliga ;ELÉTRICO;Está sem mola/ não liga;7:10:00;7:30:00;0:20:00;APROVADA;INSTALAÇÃO;Não
+03/03/2022;PULTRUSORA;2;;985;CORR;ELET;Troca de termopares;ELÉTRICO;Super aquecendo ;8:10:00;8:40:00;0:30:00;APROVADA;INSTALAÇÃO;Não
+03/03/2022;PULTRUSORA;3;;985;CORR;ELET;Troca de termopar danificado ;ELÉTRICO;Está com mal contato ;14:40:00;15:00:00;0:20:00;APROVADA;INSTALAÇÃO;Não
+04/03/2022;PULTRUSORA;6;;985;CORR;ELET;Não foi encontrado defeito no cabo e plug's;ELÉTRICO;Parou de funcionar ;9:20:00;9:30:00;0:10:00;APROVADA;INSTALAÇÃO;Não
+04/03/2022;PULTRUSORA;6;;985;CORR;ELET;Troca de sensor e adaptado circuito elétrico para sensor PNP;ELÉTRICO;Parou de funcionar;7:20:00;9:30:00;2:10:00;APROVADA;INSTALAÇÃO;Sim
+25/02/2022;PULTRUSORA;2;;985;CORR;ELET;Troca de termopar com sinal;ELÉTRICO;Sobre aquecendo;10:40:00;11:00:00;0:20:00;APROVADA;INSTALAÇÃO;Não
+04/03/2022;PULTRUSORA;4;;985;CORR;ELET;Foi feito ajuste no sensor ;CORTE;Serra não está ligando ;7:30:00;8:20:00;0:50:00;APROVADA;INSTALAÇÃO;Não
+05/03/2022;PULTRUSORA;2;;985;CORR;ELET;Trocado cabo de alimentação;ELÉTRICO;Parou de funcionar ;7:05:00;7:15:00;0:10:00;APROVADA;INSTALAÇÃO;Não
+05/03/2022;SERRA;4;;985;CORR;ELET;Rearmado disjuntor e regulado sensor fotoelétrico ;CORTE;Parou de cortar;10:40:00;11:05:00;0:25:00;APROVADA;INSTALAÇÃO;Sim
+08/03/2022;PULTRUSORA;5;;985;CORR;MEC;Fazendo regulagem valvula hidraulico ;PNEUMÁTICO;Regulagem valvula hidraulico ;15:00:00;17:00:00;2:00:00;APROVADA;INSTALAÇÃO;Não
+09/03/2022;PULTRUSORA;2;;985;CORR;ELET;Troca de tomadas e plug's danificados;ELÉTRICO;Parou de funcionar ;7:15:00;7:50:00;0:35:00;APROVADA;TROCA;Sim
+18/03/2022;PULTRUSORA;2;2;985;CORR;ELET;Troca de Termopar danificado;ELÉTRICO;Variação na medição de temperatura;17:20:00;17:40:00;0:20:00;APROVADA;TROCA;Não
+17/03/2022;Pultrusora;1;1;985;CORR;ELET;Retirado cabo com plug derretido grudado na tomada 07;ELÉTRICO;Sobrecorrente devido curto-circuito;8:00:00;8:50:00;0:50:00;APROVADA;CONSERTO;Sim
+17/03/2022;Pultrusora;6;1;985;CORR;ELET;Regulagem do sensor;CORTE;Parou de funcionar;8:00:00;8:30:00;0:30:00;APROVADA;CONSERTO;Sim
+15/03/2022;Pultrusora;4;2;985;CORR;ELET;Verificado cabo duplo. Teste elétrico. Sem defeito;ELÉTRICO;Problema no relé estado sólido;16:30:00;16:40:00;0:10:00;APROVADA;CONSERTO;Não
+22/03/2022;SERRA;4;1;985;CORR;ELET;Regulagem de sensor;CORTE;Suporte impróprio não permite boa fixação do sensor.;14:30:00;14:40:00;0:10:00;APROVADA;CONSERTO;Não
+22/03/2022;SERRA;5;1;985;CORR;ELET;Rearme de disjuntor e regulagem de sensor;CORTE;Sobrecorrente e suporte mal inapropriado para fixação do sensor.;15:51:00;16:10:00;0:19:00;APROVADA;CONSERTO;Sim
+17/03/2022;SERRA;1;1;985;CORR;ELET;Instalação de sensor;CORTE;Encoder danificado;19:00:00;20:45:00;1:45:00;APROVADA;INSTALAÇÃO;Não
+22/03/2022;SERRA;6;1;985;CORR;ELET;Regulagem de sensor;CORTE;Suporte impróprio não permite boa fixação do sensor.;9:00:00;10:00:00;1:00:00;APROVADA;CONSERTO;Não
+22/03/2022;PULTRUSORA;4;1;985;CORR;MEC;Troca de bomba de resina;PNEUMÁTICO;Bomba entupida devido falta de limpeza da cuba;10:00:00;11:00:00;1:00:00;APROVADA;TROCA;Sim
+22/03/2022;SERRA;1;1;985;CORR;ELET;Ajuste nos sensores das serras;CORTE;Mesas arrastadas pela barra de ferro. Cabos rompidos.;8:00:00;9:00:00;1:00:00;APROVADA;CONSERTO;Sim
+22/03/2022;SERRA;1;1;985;CORR;MEC;Verificado sistema para constatar motivo de perfis estarem sendo lascados.;CORTE;Falta de cura no material. ;11:10:00;12:00:00;0:50:00;APROVADA;CONSERTO;Não
+02/03/2022;PULTRUSORA;3;1;985;CORR;MEC;Reaperto na conexão de magueira hidráulica do pistão puxador com vazamento;TRAÇÃO;Vibração da máquina.;9:06:00;9:40:00;0:34:00;APROVADA;CONSERTO;Sim
+22/03/2022;PULTRUSORA;1;1;985;CORR;MEC;Troca de bomba de resina;PNEUMÁTICO;Bomba entupida devido falta de limpeza da cuba;8:10:00;9:20:00;1:10:00;APROVADA;TROCA;Não
+10/03/2022;PULTRUSORA;2;1;985;CORR;ELET;Fornecido cabo revisado para resistência.;ELÉTRICO;Fim de vida útil;13:05:00;13:10:00;0:05:00;APROVADA;TROCA;Sim
+11/03/2022;PULTRUSORA;3;1;985;CORR;ELET;Fornecido cabo revisado para resistência.;ELÉTRICO;Fim de vida útil;8:00:00;8:05:00;0:05:00;APROVADA;TROCA;Sim
+11/03/2022;PULTRUSORA;3;1;985;CORR;ELET;Fornecido cabo revisado para resistência.;ELÉTRICO;Fim de vida útil;8:00:00;8:05:00;0:05:00;APROVADA;TROCA;Sim
+12/03/2022;SERRA;4;1;985;CORR;ELET;Ajuste e regulagem de sensor;CORTE;Suporte inadequado para fixação do sensor;15:10:00;15:40:00;0:30:00;APROVADA;CONSERTO;Sim
+12/03/2022;SERRA;6;1;985;CORR;ELET;Retirada roldana do encoder da serra 01 e instalada no encoder da serra 03 (Roldana quebrada);CORTE;Causa desconhecida;15:15:00;15:45:00;0:30:00;APROVADA;CONSERTO;Sim
+12/03/2022;PULTRUSORA;2;1;985;CORR;ELET;Fornecido cabo revisado para resistência.;ELÉTRICO;Fim de vida útil;15:35:00;15:45:00;0:10:00;APROVADA;TROCA;Sim
+12/03/2022;PULTRUSORA;4;1;985;CORR;ELET;Troca de contatora e disjuntor danificados;ELÉTRICO;Fim de vida útil;7:30:00;10:00:00;2:30:00;APROVADA;TROCA;Não
+11/03/2022;PULTRUSORA;3;1;985;CORR;MEC;"Troca de bomba de resina por 2""";PNEUMÁTICO;"Bomba de resina 1"" insuficiente.";6:00:00;7:39:00;1:39:00;APROVADA;TROCA;Sim
+12/03/2022;PULTRUSORA;1;1;985;CORR;MEC;Troca de bomba de resina;PNEUMÁTICO;Bomba entupida;9:00:00;9:37:00;0:37:00;APROVADA;TROCA;Sim
+11/03/2022;PULTRUSORA;4;1;985;CORR;ELET;Regulagem de Termopar;ELÉTRICO;Temperatura variando;18:00:00;18:40:00;0:40:00;APROVADA;CONSERTO;Sim
+15/03/2022;PULTRUSORA;4;1;985;CORR;ELET;Troca de cabo duplo danificado;ELÉTRICO;Desgaste normal de uso;12:40:00;12:45:00;0:05:00;APROVADA;TROCA;Não
+16/03/2022;PULTRUSORA;3;1;985;CORR;ELET;Fornecido cabo revisado para resistência.;ELÉTRICO;Fim de vida útil;9:00:00;9:15:00;0:15:00;APROVADA;TROCA;Sim
+18/03/2022;PULTRUSORA;1;1;985;CORR;ELET;Fornecido cabo revisado para resistência.;ELÉTRICO;Fim de vida útil;7:30:00;7:40:00;0:10:00;APROVADA;TROCA;Sim
+17/03/2022;PULTRUSORA;2;1;985;CORR;MEC;Troca de pistão hidráulico;TRAÇÃO;Suporte quebrado;7:30:00;8:30:00;1:00:00;APROVADA;TROCA;Sim
+26/03/2022;SERRA;6;2;985;CORR;MEC;Troca do disco e reaperto;CORTE;Disco cego;15:40:00;16:30:00;0:50:00;APROVADA;TROCA;Sim
+29/03/2022;SERRA;3;2;985;CORR;ELET;Emendas de cabos rompidos, alinhamento de serras arrastadas.;CORTE;Barra de ferro arrastou as três serras.;16:00:00;21:00:00;5:00:00;APROVADA;CONSERTO;Sim
+27/03/2022;SERRA;6;1;985;CORR;MEC;Retirado calço do perfil instalado na serra;CORTE;Calço inapropriado causa ângulo no perfil;10:30:00;11:00:00;0:30:00;APROVADA;CONSERTO;Não
+30/03/2022;PULTRUSORA;2;2;985;CORR;MEC;Retirado borracha do puxadore, invertida a posição e reinstalada.;TRAÇÃO;Desgaste de uso;16:15:00;16:45:00;0:30:00;APROVADA;CONSERTO;Não
+15/03/2022;PULTRUSORA;3;1;985;CORR;ELET;Substituído cabo de tomada;ELÉTRICO;Tomadas derretidas;10:50:00;11:00:00;0:10:00;APROVADA;TROCA;Sim
+24/03/2022;SERRA CIRCULAR ;0;1;985;CORR;MEC;Retirado disco da serra devido estar torto, podendo ocasionar acidente.;CORTE;Disco cego e empenado.;8:30:00;9:30:00;1:00:00;APROVADA;CONSERTO;Não
+16/03/2022;SERRA;4;1;985;CORR;MEC;Regulagem de ar na entrada das válvulas;CORTE;Desregulagem normal.;9:20:00;9:50:00;0:30:00;APROVADA;CONSERTO;Sim
+12/03/2022;PULTRUSORA;4;1;985;CORR;ELET;Reparo no cabo de tomada e troca de 5 tomadas danificadas.;ELÉTRICO;Tomadas ressecadas, resistências muito quentes.;9:20:00;9:40:00;0:20:00;APROVADA;CONSERTO;Sim
+24/03/2022;MANGUEIRAS;0;1;985;CORR;MEC;"Troca do registro da mangueira de resina de 1""";PNEUMÁTICO;Danificado;7:30:00;8:00:00;0:30:00;APROVADA;TROCA;Não
+29/03/2022;BOMBA DE RESINA ;2;3;985;CORR;MEC;FOI FEITO TROCA BOMBA;PNEUMÁTICO;QUEBROU ENCAIXE DE AR COMPRIMIDO QUE LIGA A BOMBA;7:00:00;8:00:00;1:00:00;APROVADA;;Sim
+29/03/2022;PULTRUSORA;1;1;985;CORR;MEC;FOI FEITO TROCA BOMBA;PNEUMÁTICO;PROBLEMAS NA BOMBA;10:00:00;11:30:00;1:30:00;APROVADA;TROCA;Não
+29/03/2022;SERRA;3;1;985;CORR;MEC;Feito ajuste sensor serra;CORTE;Não esta fiuncionando ;14:30:00;15:00:00;1:30:00;APROVADA;INSTALAÇÃO;Sim
+09/03/2022;PULTRUSORA;1;1;985;PREV;MEC;Fixado enconder na estrutura e reposicionada corrente de tração;ELÉTRICO;Precisa regular;14:10:00;14:30:00;0:20:00;APROVADA;CONSERTO;Não
+10/03/2022;PULTRUSORA;2;1;985;CORR;ELET;Efetuado troca de tomada steck 2 P+T fêmea;ELÉTRICO;Pino rompido ;13:10:00;13:45:00;0:35:00;APROVADA;TROCA;Não
+10/03/2022;PULTRUSORA;6;1;985;CORR;ELET;Feito testes nas tomadas e constatado que era necessário trocar relê de estado sólido ;ELÉTRICO;Tomada não está funcionando tomada 8;15:05:00;16:40:00;1:35:00;APROVADA;TROCA;Não
+05/03/2022;PULTRUSORA;1;1;985;CORR;ELET;Troca de termopar danificado;ELÉTRICO;Parou de funcionar ;9:20:00;9:30:00;0:10:00;APROVADA;TROCA;Não
+03/03/2022;PULTRUSORA;2;1;985;CORR;ELET;Troca de termopar danificado;ELÉTRICO;Está caindo a temperatura;10:15:00;10:45:00;0:30:00;APROVADA;TROCA;Sim
+05/03/2022;PULTRUSORA;4;3;985;CORR;ELET;Foi feito ajuste sensores vibração serra, sensor desregulado sensibilidade;CORTE;Serra 3 não liga ;7:10:00;8:30:00;1:20:00;APROVADA;INSTALAÇÃO;Sim
+10/03/2022;PULTRUSORA;6;1;985;CORR;ELET;Posição de termopar trocada. Foi localizado e colocado na posição correta;ELÉTRICO;Parou de funcionar;9:55:00;11:10:00;1:15:00;APROVADA;CONSERTO;Não
+08/03/2022;SERRA;4;1;985;CORR;MEC;Defeito não era serra, operador alimentou pressão hidraulica acontece esmaga tubo tramontina;CORTE;;7:15:00;8:00:00;0:45:00;APROVADA;INSTALAÇÃO;Não
+05/03/2022;PULTRUSORA;4;2;985;CORR;ELET;Efetuado troca por 02 cabos revisados;ELÉTRICO;Troca de tomadas cabos 2;15:30:00;15:45:00;0:15:00;APROVADA;TROCA;Sim
+05/03/2022;PULTRUSORA;6;2;985;CORR;ELET;Identificado cabo que estava conectado errado ;CORTE;Sensor serra;15:25:00;17:40:00;2:05:00;APROVADA;INSTALAÇÃO;Sim
+05/03/2022;PULTRUSORA;3;1;985;CORR;ELET;Trocado termopar;ELÉTRICO;Parou de funcionar;14:15:00;14:30:00;0:15:00;APROVADA;TROCA;Não
+05/03/2022;SERRA;4;1;985;CORR;ELET;Foi feito ajuste no sensor ;CORTE;Parou de funcionar;7:20:00;7:40:00;0:20:00;APROVADA;INSTALAÇÃO;Sim
+03/03/2022;PULTRUSORA;6;1;985;CORR;MEC;Feito ajuste na corrente do incoder;ELÉTRICO;Arrumar corrente ;8:55:00;9:40:00;0:45:00;APROVADA;INSTALAÇÃO;Não
+09/03/2022;PULTRUSORA;6;1;985;CORR;MEC;Regulado válvula pistão;CORTE;Serra esta esmagando a peça ;10:30:00;10:45:00;0:15:00;APROVADA;CONSERTO;Sim
+05/03/2022;SERRA;4;1;985;CORR;ELET;Regulagem do sensor e na suporte do mesmo ;CORTE;Sensor parou de funcionar ;10:20:00;10:40:00;0:20:00;APROVADA;CONSERTO;Não
+06/03/2022;SERRA;6;1;985;CORR;MEC;Regulagem da válvula dos pistões prensadores;CORTE;Precisa coloca uma borracha, ta batendo seco em cima do perfil;11:15:00;11:35:00;0:20:00;APROVADA;CONSERTO;Sim
+06/03/2022;PULTRUSORA;6;1;985;CORR;MEC;Regulagem do sensor e suporte;CORTE;Parou de funcionar ;11:50:00;12:10:00;0:20:00;APROVADA;CONSERTO;Sim
+27/01/2022;FURADEIRA DE BANCADA;0;2;987;CORR;MEC;Executado ;CORTE;Travado ;15:00:00;15:30:00;0:30:00;APROVADA;CONSERTO;Não
+15/04/2022;PULTRUSORA;1;1;985;CORR;ELET;Troca de termopar ''J'';ELÉTRICO;Trocar termopar;10:50:00;11:10:00;0:20:00;APROVADA;TROCA;Sim
+14/04/2022;PULTRUSORA;3;1;985;CORR;ELET;Troca de duas tomadas 16A 2PT, 4 Termopares, 1 relé estado sólido;ELÉTRICO;1,4,5,6,9,10,11,12,13,16,17 tomadas parou de funcionar, precisa trocar termopar;7:50:00;10:40:00;2:50:00;APROVADA;CONSERTO;Sim
+12/04/2022;SERRA;3;1;985;CORR;ELET;Feito conexão dos cabos;CORTE;Fio rompido ;8:35:00;8:50:00;0:15:00;APROVADA;CONSERTO;Sim
+12/04/2022;PULTRUSORA;1;1;985;CORR;ELET;Ajustado sensor ;CORTE;Não está funcionando ;8:00:00;8:20:00;0:20:00;APROVADA;CONSERTO;Não
+12/04/2022;PULTRUSORA;6;1;985;CORR;ELET;Feito ajuste dos sensores ;CORTE;Não está funcionando ;9:20:00;9:50:00;0:30:00;APROVADA;CONSERTO;Sim
+12/04/2022;SERRA;6;1;985;CORR;MEC;Feito troca de OL cotovelo engate rápido ;CORTE;Quebrou a mangueira;9:10:00;9:20:00;0:10:00;APROVADA;TROCA;Sim
+09/04/2022;SERRA;1;1;985;CORR;ELET;Localizado e conectado cabo novamente ;CORTE;Não esta ligando/cabo alimentação desconectado;9:30:00;10:00:00;0:30:00;APROVADA;CONSERTO;Sim
+09/04/2022;SERRA;6;1;985;CORR;ELET;Cabo de alimentação do motor rompido feito conexão novamente ;CORTE;Está em curto;8:00:00;9:15:00;1:15:00;APROVADA;CONSERTO;Sim
+05/04/2022;PULTRUSORA;6;2;985;CORR;ELET;Foi feito troca de sensor;CORTE;Sensor não está funcionando;16:45:00;17:30:00;0:45:00;APROVADA;TROCA;Sim
+05/04/2022;PULTRUSORA;6;2;985;CORR;MEC;Corrente arrebentou foi feita emenda para voltar a funcionar;PNEUMÁTICO;Corrente velocidade;16:40:00;17:20:00;0:40:00;APROVADA;CONSERTO;Não
+06/04/2022;PULTRUSORA;1;1;985;CORR;ELET;Foi feito troca termopar que não estava aquecimento;ELÉTRICO;Trocar termopar;7:45:00;8:30:00;0:45:00;APROVADA;TROCA;Sim
+05/04/2022;PULTRUSORA;3;1;985;CORR;ELET;Feito ajuste no sensor de presença;CORTE;Sensor não está funcionando ;16:45:00;17:20:00;0:35:00;APROVADA;CONSERTO;Não
+06/04/2022;SERRA;6;1;985;CORR;MEC;Feito retirada dos calsos que processo colocou, serra voltou cortar certo;CORTE;Está cortando em grau;7:00:00;8:00:00;1:00:00;APROVADA;CONSERTO;Sim
+09/04/2022;PULTRUSORA;1;3;985;CORR;MEC;Pistão 2 solto a rosca do puxador ;TRAÇÃO;Puxador ;21:20:00;22:00:00;0:40:00;APROVADA;CONSERTO;Não
+16/04/2022;PULTRUSORA;6;2;985;CORR;MEC;Feito nivelamento da serra;CORTE;Serra está com a estrutura torta ;15:55:00;16:00:00;0:05:00;APROVADA;CONSERTO;Sim
+15/04/2022;SERRA;3;3;985;CORR;MEC;Pistão prendi a peça solto;CORTE;Serra não está cortando corretamente ;21:15:00;22:00:00;0:45:00;APROVADA;CONSERTO;Sim
+19/04/2022;PULTRUSORA;2;2;985;CORR;MEC;Executado ;PNEUMÁTICO;Mangueira vazando resina retirar bomba não vai ser usado mais;11:00:00;11:30:00;0:30:00;APROVADA;TROCA;Sim
+14/04/2022;PULTRUSORA;2;1;985;CORR;ELET;Reparo e conexão de cabo de alimentação. Troca de resistencia danificada;ELÉTRICO;Esta em curto;8:00:00;9:00:00;1:00:00;APROVADA;CONSERTO;Sim
+14/04/2022;SERRA;3;1;985;CORR;MEC;Alinhada Serra;CORTE;Está torta;10:00:00;10:30:00;0:30:00;APROVADA;CONSERTO;Não
+14/04/2022;PULTRUSORA;1;1;985;CORR;ELET;Instalação de novos termopares e troca de relés estado sólido;ELÉTRICO;Verificar tomadas, está oscilando temperatura precisa trocar;7:40:00;8:30:00;0:50:00;APROVADA;INSTALAÇÃO;Sim
+27/04/2022;SERRA;4;1;985;CORR;MEC;Regulado ar e lubrificação sistema pneumático;CORTE;Esta cortando em pedaços pequenos;15:10:00;15:40:00;0:30:00;APROVADA;CONSERTO;SIM
+13/04/2022;SERRA;4;1;985;CORR;ELET;Regulado alcance do sensor ;CORTE;Precisa diminuir;9:10:00;9:20:00;0:10:00;APROVADA;CONSERTO;NÃO
+30/04/2022;SERRA;1;1;985;CORR;MEC;Feio regulagem no pistão que aciona a serra;CORTE;Está lascando as peças;13:45:00;14:00:00;0:15:00;APROVADA;CONSERTO;SIM
+30/04/2022;PULTRUSORA;2;1;985;CORR;MEC;Reparo em corrente arrebentada do contador de velocidade;ELÉTRICO;Não está funcionando ;10:30:00;11:00:00;0:30:00;APROVADA;CONSERTO;SIM
+14/04/2022;PULTRUSORA;2;1;985;CORR;ELET;Substituídos cabos e resistência em curto ;ELÉTRICO;Curto nas tomadas, resistencias;7:20:00;7:40:00;0:20:00;APROVADA;TROCA;NÃO
+07/04/2022;PULTRUSORA;3;2;985;CORR;ELET;Troca de duas tomadas derretidas, 4 relés estados sólidos e um controlador de temperatura;ELÉTRICO;Defeito tomada 4, 5, 10, 13, 17, 18;8:00:00;10:00:00;2:00:00;APROVADA;TROCA;SIM
+06/04/2022;SERRA;3;1;985;CORR;ELET;Regulagem de sensor ;CORTE;Não está funcionando ;11:00:00;11:10:00;0:10:00;APROVADA;CONSERTO;SIM
+21/04/2022;SERRA  ;2;1;985;CORR;ELET;Regulagem de sensor;CORTE;Não está cortando;10:20:00;10:40:00;0:20:00;APROVADA;CONSERTO;SIM
+21/04/2022;SERRA;6;1;985;CORR;ELET;Regulagem de sensor;CORTE;Serra não está funcionando;7:40:00;8:00:00;0:20:00;APROVADA;CONSERTO;
+20/04/2022;SERRA;2;1;985;CORR;ELET;Regulagem válvula  ;CORTE;Não está cortando;13:00:00;13:20:00;0:20:00;APROVADA;CONSERTO;SIM
+20/04/2022;SERRA;1;1;985;CORR;MEC;Regulagem de sensor e cilindros;CORTE;Está com barulho estranho, e está lascando a peça;10:50:00;11:30:00;0:40:00;APROVADA;CONSERTO;SIM
+13/04/2022;PULTRUSORA;2;2;985;CORR;ELET;Substituídos cabos danificados;ELÉTRICO;Defeito cabos troca de tomada;17:22:00;17:30:00;0:08:00;APROVADA;TROCA;SIM
+12/04/2022;SERRA;4;1;985;CORR;ELET;Regulagem de sensor e pistão;CORTE;Parou de cortar;8:00:00;8:30:00;0:30:00;APROVADA;CONSERTO;NÃO
+22/04/2022;SERRA;4;1;985;CORR;ELET;Reser geral e regulagem de pistão;CORTE;Parou de funcionar;8:15:00;8:35:00;0:20:00;APROVADA;CONSERTO;SIM
+22/04/2022;SERRA;3;1;985;CORR;ELET;Emenda de cabo rompido;CORTE;Parou de funcionar;15:20:00;15:50:00;0:30:00;APROVADA;CONSERTO;SIM
+20/04/2022;SERRA;1;1;985;CORR;MEC;Executado ;CORTE;Disco de corte não encosta na peça;13:40:00;14:00:00;0:20:00;APROVADA;;SIM
+20/04/2022;SERRA ;1;1;985;CORR;MEC;Enroscando ponteira do pistão da mesa;CORTE;A mesa não está voltando, e a serra ta fazendo um barulho estranho;13:40:00;14:00:00;0:20:00;APROVADA;CONSERTO;
+29/04/2022;SERRA;4;1;985;CORR;MEC;Feito ajuste no sensor;CORTE;;10:00:00;10:10:00;0:10:00;APROVADA;CONSERTO;NÃO
+28/04/2022;PULTRUSORA;3;2;985;CORR;ELET;Feito troca de cabo e resistência ;ELÉTRICO;Tomada 11 dando curto;17:05:00;17:45:00;0:40:00;APROVADA;TROCA;NÃO
+06/04/2022;PULTRUSORA;3;2;985;CORR;ELET;Feito troca tomada maquina ;ELÉTRICO;Defeito tomada 13, 16, 17, 18;16:13:00;17:20:00;1:07:00;APROVADA;TROCA;NÃO
+16/04/2022;PULTRUSORA;3;2;985;CORR;MEC;Feito troca mangueira catalizada;PNEUMÁTICO;Bomba;16:40:00;17:20:00;0:40:00;APROVADA;TROCA;SIM
+05/05/2022;SERRA;1;1;985;CORR;MEC;Cortada parte furada de mangueira e trocado conector pneumático;CORTE;Furou a mangueira;8:20:00;8:35:00;0:15:00;APROVADA;CONSERTO;SIM
+05/05/2022;PULTRUSORA ;1;1;985;CORR;ELET;Testes nas tomadas 1,3,4 e 9 e em seus respectivos relés estado sólidos;ELÉTRICO;Verificar as resistências;14:50:00;15:20:00;0:30:00;APROVADA;CONSERTO;SIM
+05/05/2022;SERRA;3;1;985;CORR;MEC;Troca de conector pnemático M8 e cortada mangueira ressecada com vazamento;CORTE;Arrebentou a mangueira;14:00:00;14:35:00;0:35:00;APROVADA;CONSERTO;SIM
+05/05/2022;SERRA;1;1;985;CORR;MEC;Troca de conector pnemático M8 e cortada mangueira ressecada com vazamento;CORTE;Esta lascando peça;13:10:00;13:30:00;0:20:00;APROVADA;CONSERTO;SIM
+03/05/2022;PULTRUSORA;1;1;985;CORR;MEC;Diminuido pressão do pistão;PNEUMÁTICO;Parou de funcionar;12:50:00;13:00:00;0:10:00;APROVADA;CONSERTO;SIM
+05/05/2022;PULTRUSORA;4;2;985;CORR;MEC;Regulagem do pistão;CORTE;Serra não está cortando;19:00:00;19:30:00;0:30:00;APROVADA;CONSERTO;NÃO
+04/05/2022;PULTRUSORA;1;1;985;CORR;MEC;Feita instalação de sensores;ELÉTRICO;Instalar sensores npn na serra;10:30:00;11:30:00;1:00:00;APROVADA;INSTALAÇÃO;SIM
+05/05/2022;SERRA;4;1;985;CORR;MEC;Regulagem da;CORTE;Parou de funcionar;10:00:00;10:30:00;0:30:00;APROVADA;CONSERTO;SIM
+07/05/2022;PULTRUSORA;4;1;985;CORR;ELET;Regulagem do sensor da serra;CORTE;Defeito sensor de corte;16:40:00;17:00:00;0:20:00;APROVADA;CONSERTO;SIM
+12/05/2022;PULTRUSORA;4;1;985;CORR;ELET;Trocado tomada. Retirado da pultrusora 05;ELÉTRICO;Troca de tomada;11:45:00;12:40:00;0:55:00;APROVADA;TROCA;SIM
+12/05/2022;PULTRUSORA;3;1;985;CORR;MEC;Feito mancau e serra rolamento estourado;CORTE;Serra esta torta;13:54:00;16:35:00;2:41:00;APROVADA;CONSERTO;SIM
+18/05/2022;PULTRUSORA;5;1;985;PREV;ELET;Instalado 07 termopares;ELÉTRICO;Instalar termopar tipo J;13:30:00;14:00:00;0:30:00;APROVADA;INSTALAÇÃO;NÃO
+19/05/2022;PULTRUSORA;3;1;985;CORR;MEC;Troca de pistão  ;PNEUMÁTICO;Precisa trocar;9:15:00;9:50:00;0:35:00;APROVADA;TROCA;NÃO
+18/05/2022;PULTRUSORA;5;1;985;PREV;ELET;Feito troca de 07 termopares e colocado 03 sensores na serra;CORTE;Instalar 3 sensores serras;13:45:00;16:40:00;2:55:00;APROVADA;TROCA;NÃO
+01/06/2022;SERRA;1;1;985;CORR;MEC;Puchador da matriz, suporte serra quebrou parafuso ;TRAÇÃO;Parou de funcionar;8:40:00;10:00:00;1:20:00;APROVADA;CONSERTO;SIM
+01/06/2022;PULTRUSORA;2;1;985;CORR;MEC;Feito troca pistão hidraulico espanou rosca;PNEUMÁTICO;Está solta;10:00:00;11:20:00;1:20:00;APROVADA;CONSERTO;SIM
+31/05/2022;SERRA;3;1;985;CORR;MEC;Regulagem de válvula, ajuste e verificação do disco de conte, ajuste nos batentes de apoio dos perfis;CORTE;Está lascando a peça;10:10:00;12:00:00;1:50:00;APROVADA;CONSERTO;NÃO
+31/05/2022;SERRA;1;1;985;CORR;MEC;Ajustado sensor;CORTE;Não esta cortando;8:10:00;10:10:00;2:00:00;APROVADA;CONSERTO;SIM
+27/05/2022;MANGUEIRAS;0;1;985;PREV;MEC;Instalado 10m de mangueira;PNEUMÁTICO;Nova;9:15:00;9:30:00;0:15:00;APROVADA;TROCA;NÃO
+20/05/2022;PULTRUSORA;2;1;985;CORR;MEC;Trocado botão e válvula;TRAÇÃO;Puxador 2 não está funcionando;18:00:00;18:30:00;0:30:00;APROVADA;CONSERTO;NÃO
+20/05/2022;SERRA CIRCULAR ;0;2;985;CORR;MEC;Efetuado troca de carvão;CORTE;Carvão;18:20:00;18:40:00;0:20:00;APROVADA;CONSERTO;SIM
+12/05/2022;PULTRUSORA;3;2;985;CORR;MEC;Troca de botão ligar;ELÉTRICO;Botão de ligar com problema;17:00:00;17:20:00;0:20:00;APROVADA;CONSERTO;SIM
+17/05/2022;SERRA;4;1;985;CORR;MEC;Aumentada a pressõa de ar na válvula reguladora da serra;CORTE;Travou;10:40:00;10:50:00;0:10:00;APROVADA;CONSERTO;SIM
+05/05/2022;SERRA;3;1;985;CORR;MEC;Regulagem de ar na válvula do cílindro de elevação do motor;CORTE;Serra, matriz 3 com defeito, travando ao corte;7:10:00;8:00:00;0:50:00;APROVADA;CONSERTO;SIM
+28/05/2022;SERRA;4;1;985;CORR;MEC;Ajustado pistão de ar;CORTE;Parou de funcionar;13:45:00;14:10:00;0:25:00;APROVADA;CONSERTO;NÃO
+28/05/2022;PULTRUSORA;1;2;985;CORR;ELET;Ajustado sensor e trocado 02 Correias A30;CORTE;Sensor e maquina fora de lugar;16:00:00;17:40:00;1:40:00;APROVADA;TROCA;SIM
+25/05/2022;PULTRUSORA;2;1;985;CORR;MEC;Executado ;PNEUMÁTICO;Estourou  ;14:00:00;15:10:00;1:10:00;APROVADA;CONSERTO;SIM
+03/06/2022;SERRA;1;1;985;CORR;MEC;Feito ajuste no pistão serra;CORTE;Parece que está solta;10:00:00;10:30:00;0:30:00;APROVADA;CONSERTO;SIM
+03/06/2022;SERRA;2;1;985;CORR;ELET;Feito ajuste do sensor levante serra corte;CORTE;Parou de funcionar;6:55:00;8:00:00;1:05:00;APROVADA;CONSERTO;SIM
+03/06/2022;PULTRUSORA;6;1;985;CORR;MEC;Feita trava fixação do sensor devido estar curta para acionamento serra ;ELÉTRICO;Precisa colocar um fio maior, preciso cortar peças de 6mts;8:00:00;10:00:00;2:00:00;APROVADA;CONSERTO;SIM
+02/06/2022;BOMBA DE RESINA ;2;1;985;PREV;MEC;Silenciador bomba de resina;PNEUMÁTICO;Colocar silenciador;8:00:00;8:15:00;0:15:00;APROVADA;TROCA;SIM
+07/06/2022;PULTRUSORA;2;1;985;CORR;MEC;Troca de corrente;PNEUMÁTICO;Arrebentou;9:00:00;10:00:00;1:00:00;APROVADA;CONSERTO;SIM
+04/06/2022;PULTRUSORA;6;1;985;CORR;MEC;Executado ;CORTE;Pistão vazando/serra demorando para abaixar;13:00:00;13:20:00;0:20:00;APROVADA;CONSERTO;SIM
+08/06/2022;PULTRUSORA;3;1;985;PREV;MEC;Executado ;ELÉTRICO;Tirar e guardar na manutenção;8:10:00;8:20:00;0:10:00;APROVADA;CONSERTO;SIM
+10/06/2022;PULTRUSORA ;1;1;985;CORR;ELET;Substituido sensor quebrado;ELÉTRICO;Parou de funcionar;9:00:00;9:30:00;0:30:00;APROVADA;TROCA;NÃO
+10/06/2022;PULTRUSORA;1;3;985;CORR;MEC;Substituido Bomba   ;PNEUMÁTICO;Bomba não funciona trocar ;7:20:00;8:10:00;0:50:00;APROVADA;TROCA;SIM
+09/06/2022;PULTRUSORA;2;2;985;CORR;ELET;Feito ajuste no sensor;CORTE;Serra não esta cortando;17:35:00;18:00:00;0:25:00;APROVADA;CONSERTO;SIM
+10/06/2022;PULTRUSORA;1;2;985;CORR;ELET;Serviço executado na os 3760;CORTE;Sensor arrebentou serra;17:00:00;17:00:00;0:00:00;APROVADA;CONSERTO;NÃO
+10/06/2022;SERRA;1;2;985;CORR;ELET;Sensor quebrado. Feito troca de sensor;CORTE;Não está cortando;16:30:00;17:00:00;0:30:00;APROVADA;TROCA;SIM
+10/06/2022;PULTRUSORA;6;1;985;CORR;MEC;Feito regulagem ns pistões hidraulicos;PNEUMÁTICO;Precisa baixar a regulagem do puxador, deixar igual da maquina 4;11:00:00;12:00:00;1:00:00;APROVADA;CONSERTO;NÃO
+10/06/2022;PULTRUSORA;5;1;985;CORR;MEC;Reapertado os parafusos e verificado os demais;PNEUMÁTICO;Precisa apertar os parafusos/ esta vazando oleo;10:20:00;10:40:00;0:20:00;APROVADA;CONSERTO;SIM
+10/06/2022;SERRA;4;1;985;CORR;MEC;Aberto equipamento e feito regulagem de ar nos pistões;PNEUMÁTICO;Parou de funcionar ;8:00:00;10:30:00;2:30:00;APROVADA;CONSERTO;NÃO
+10/06/2022;PULTRUSORA;1;1;985;CORR;ELET;Revisamos e trocado 01 termopar;ELÉTRICO;Precisa revisar;10:00:00;10:30:00;0:30:00;APROVADA;TROCA;NÃO
+08/06/2022;PULTRUSORA;3;3;985;CORR;ELET;Trocado 01 termopar ;ELÉTRICO;Troca de termopar;10:05:00;10:20:00;0:15:00;APROVADA;TROCA;SIM
+10/06/2022;PULTRUSORA;2;3;985;CORR;ELET;Caiu a chave geral mangueira devido a isto as serras soltou fio contatara;ELÉTRICO;Caiu a chave;21:40:00;22:10:00;0:30:00;APROVADA;QUEBRA;SIM
+10/06/2022;SERRA;3;2;985;CORR;ELET;Foi feito troca sensor estava em curto;CORTE;Está saindo faísca;13:40:00;14:20:00;0:40:00;APROVADA;QUEBRA;NÃO
+10/06/2022;PULTRUSORA;1;2;985;CORR;MEC;Feito troca do pistão hidraulico 1 metro devido vazamento;PNEUMÁTICO;Troca de pistão;15:30:00;17:38:00;2:08:00;APROVADA;TROCA;NÃO
+10/06/2022;PULTRUSORA ;2;2;985;CORR;MEC;Feito troca do pistõa vazaento;PNEUMÁTICO;Troca de pistão;14:40:00;15:30:00;0:50:00;APROVADA;TROCA;SIM
+02/06/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito troca de botueira manual em curto;ELÉTRICO;Não está funcionando ;7:00:00;9:00:00;2:00:00;APROVADA;TROCA;SIM
+02/06/2022;SERRA;1;1;985;CORR;MEC;Feito ajuste nos pistões pneumaticos;CORTE;Está cortando em grau;10:40:00;11:30:00;0:50:00;APROVADA;CONSERTO;SIM
+11/06/2022;PULTRUSORA;2;1;985;CORR;ELET;Feito revisão e trocado 03 termopares bem como acompanhado funcionamento;ELÉTRICO;Revisar e termopar faltando;8:50:00;10:20:00;1:30:00;APROVADA;INSTALAÇÃO;SIM
+11/06/2022;PULTRUSORA;4;1;985;CORR;MEC;Instalado Botoeira no lado direito da maquina;ELÉTRICO;Troca de botoeira;11:40:00;12:05:00;0:25:00;APROVADA;INSTALAÇÃO;NÃO
+10/06/2022;PULTRUSORA;6;1;985;CORR;MEC;Puxador ;TRAÇÃO;Não está segurando;7:40:00;8:00:00;0:20:00;APROVADA;INSTALAÇÃO;NÃO
+10/06/2022;SERRA;6;1;985;CORR;MEC;Executado ;CORTE;Parou de funcionar;7:00:00;16:00:00;9:00:00;APROVADA;CONSERTO;SIM
+10/06/2022;SERRA;4;1;985;CORR;MEC;Executado ;CORTE;Parou de funcionar;9:00:00;11:00:00;2:00:00;APROVADA;CONSERTO;SIM
+14/06/2022;SERRA ;4;2;985;CORR;MEC;Feito regulagem nos pistões;CORTE;Precisa regular;14:35:00;14:50:00;0:15:00;APROVADA;CONSERTO;SIM
+16/06/2022;SERRA;6;1;985;CORR;ELET;Cabo do sensor desconectado. Reconectado novamente e regulado;CORTE;Sensor com defeito;9:45:00;10:15:00;0:30:00;APROVADA;CONSERTO;SIM
+21/06/2022;SERRA;4;1;985;CORR;ELET;Ajuste na tomada/plug da serra;CORTE;Parou de cortar;8:10:00;8:30:00;0:20:00;APROVADA;CONSERTO;SIM
+21/06/2022;SERRA;6;1;985;CORR;ELET;Regulagem de sensor;CORTE;Corta peça menor/ corta maior;8:10:00;8:25:00;0:15:00;APROVADA;CONSERTO;SIM
+21/06/2022;PULTRUSORA;3;2;985;CORR;ELET;Troca e termopar;ELÉTRICO;Precisa trocar;15:00:00;15:20:00;0:20:00;APROVADA;TROCA;SIM
+10/06/2022;SERRA;1;2;985;CORR;ELET;Rearmado disjuntor, testes de potência e isolação de partes danificadas no cabeamento;ELÉTRICO;Desligou e não conseguimos ligar;14:25:00;14:45:00;0:20:00;APROVADA;CONSERTO;SIM
+28/06/2022;PULTRUSORA;2;3;985;CORR;ELET;Trocado 02 termopares que estavam rompidos;ELÉTRICO;Termopar rompido;0:50:00;1:00:00;0:10:00;APROVADA;TROCA;SIM
+14/06/2022;SERRA;1;1;985;CORR;MEC;Troca de serra;CORTE;Está cortando em ângulo e lascando a peça;9:15:00;9:30:00;0:15:00;APROVADA;CONSERTO;NÃO
+15/06/2022;SERRA;1;1;985;CORR;MEC;Tentando corrigir o problema, mas é necessario a troca de serra;CORTE;Está lascando a peça ;13:10:00;13:20:00;0:10:00;APROVADA;CONSERTO;SIM
+21/06/2022;PULTRUSORA;4;1;985;CORR;MEC;Executado ;PNEUMÁTICO;Um pistão ergue  e outro não;15:00:00;16:00:00;1:00:00;APROVADA;CONSERTO;NÃO
+15/06/2022;SERRA;6;1;985;CORR;ELET;Reconectado cabo do sensor que havia sido solto, e regulado maquina;ELÉTRICO;Parou de funcionar;8:05:00;8:20:00;0:15:00;APROVADA;CONSERTO;SIM
+14/06/2022;PULTRUSORA;5;1;985;CORR;ELET;Feito verificação e constado resistencia rompida, fornecida 01 nova;ELÉTRICO;Parou de funcionar;15:55:00;16:10:00;0:15:00;APROVADA;QUEBRA;SIM
+18/06/2022;PULTRUSORA;2;1;985;CORR;ELET;Verificado e constado que é problema na resistencia. Repassado p/ o processo;ELÉTRICO;Não está esquentando;11:30:00;11:45:00;0:15:00;APROVADA;CONSERTO;SIM
+18/06/2022;SERRA;6;1;985;CORR;ELET;Rearmado disjuntor da serra;CORTE;Não está cortando;8:30:00;8:45:00;0:15:00;APROVADA;CONSERTO;SIM
+18/06/2022;SERRA;4;1;985;CORR;ELET;Ajustado sensor;CORTE;Parou de cortar;8:30:00;8:45:00;0:15:00;APROVADA;CONSERTO;NÃO
+05/07/2022;SERRA;1;2;985;CORR;MEC;Troca de conexõa pistão;CORTE;Serra parou de funcionar;14:40:00;15:22:00;0:42:00;APROVADA;CONSERTO;SIM
+25/07/2022;SERRA;6;1;985;CORR;MEC;Regulagem do pistão;CORTE;Parou de funcionar;10:30:00;10:45:00;0:15:00;APROVADA;CONSERTO;SIM
+05/07/2022;PULTRUSORA;5;2;985;CORR;MEC;Feito troca valvula comando hidraulico;TRAÇÃO;Está quebrando as peças / um está mais rápido do que o outro;14:31:00;16:40:00;2:09:00;APROVADA;CONSERTO;SIM
+07/07/2022;SERRA;4;2;985;CORR;MEC;Feito ajuste pneumatico do comando serra;CORTE;"Quando a mesa volta para traz, está dando um ""soco""";15:30:00;16:00:00;0:30:00;APROVADA;CONSERTO;SIM
+07/07/2022;PULTRUSORA;4;2;985;CORR;MEC;Feito troca sensor comando pistão hidraulico, traco valvula comando óleo;TRAÇÃO;Não está erguendo;15:30:00;17:00:00;1:30:00;APROVADA;CONSERTO;SIM
+12/07/2022;SERRA;5;2;985;CORR;MEC;Feito regulamento no sensor;CORTE;Parou de cortar;23:10:00;23:20:00;0:10:00;APROVADA;CONSERTO;SIM
+12/07/2022;SERRA;2;2;985;CORR;MEC;Puxado máquina no lugar de volta e conectado mangueira de ar;CORTE;Parou de cortar;23:20:00;23:50:00;0:30:00;APROVADA;CONSERTO;SIM
+13/07/2022;PULTRUSORA;4;1;985;CORR;ELET;Conectado cabo solto na batedeira de emergência, trocados os cabos nos contatos da chave de emergencia lado esquerdo, regulada chave de emergencia lado direito, ajuste no sensor clamp 2 do puxador 2;ELÉTRICO;Não liga;8:30:00;9:00:00;0:30:00;APROVADA;CONSERTO;SIM
+19/07/2022;PULTRUSORA;4;1;985;CORR;ELET;Testes elétricos, rearme de disjuntor de alimentação, troca de contatora e relé térmilho e refeito comando elétrico;ELÉTRICO;Não liga;8:00:00;16:43:00;8:43:00;APROVADA;CONSERTO;SIM
+26/07/2022;POLICORTE;0;2;985;CORR;MEC;Trocado carvão;CORTE;Parou de funcionar / carvão;19:15:00;19:30:00;0:15:00;APROVADA;CONSERTO;SIM
+21/07/2022;PULTRUSORA;4;2;985;CORR;ELET;Adaptado plug para encaixar na tomada;ELÉTRICO;Falha nas tomadas resistências;16:43:00;17:00:00;0:17:00;APROVADA;CONSERTO;SIM
+10/07/2022;PULTRUSORA;2;1;985;CORR;ELET;Troca de termopar;ELÉTRICO;Troca de cabo resistência;10:30:00;11:00:00;0:30:00;APROVADA;CONSERTO;SIM
+20/07/2022;PULTRUSORA;4;2;985;CORR;ELET;Trocado tomada;ELÉTRICO;Tomada 7 não está funcionando;17:30:00;17:45:00;0:15:00;APROVADA;CONSERTO;SIM
+26/07/2022;SERRA;4;1;985;CORR;ELET;Feito ajuste no sensor ;CORTE;Parou de funcionar;12:30:00;12:45:00;0:15:00;APROVADA;CONSERTO;SIM
+09/06/2022;SERRA;4;2;985;CORR;ELET;Feito ajuste no sensor;CORTE;Nõa está cortando;16:00:00;16:15:00;0:15:00;APROVADA;CONSERTO;NÃO
+05/07/2022;POLICORTE;0;1;985;CORR;MEC;Trocado jogo de carvão;CORTE;Parou de cortar;10:30:00;10:45:00;0:15:00;APROVADA;CONSERTO;NÃO
+30/07/2022;PULTRUSORA;6;1;985;CORR;ELET;Feito ligamento das botueira painel comando disjuntor caiu não acionava hidraulico;TRAÇÃO;Puxador trava quando coloca as duas matrizes para rodar;7:55:00;8:53:00;1:00:00;APROVADA;CONSERTO;NÃO
+18/08/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito ajuste da serra desregulada valvula de pressão;CORTE;Serra não está cortando a peça;10:20:00;12:00:00;1:40:00;APROVADA;CONSERTO;SIM
+19/08/2022;PULTRUSORA;4;2;985;CORR;MEC;Serra desregulada. Valvula e regulagem;CORTE;Com defeito serra hidraulico;14:00:00;17:00:00;3:00:00;APROVADA;CONSERTO;SIM
+21/08/2022;PULTRUSORA;6;1;985;CORR;ELET;Feito troca cabo elétrico motor serra em curto;CORTE;Serra não esta funcionando e deu curto;7:35:00;9:10:00;1:35:00;APROVADA;CONSERTO;SIM
+23/08/2022;PULTRUSORA;5;1;985;CORR;ELET;Executado ;ELÉTRICO;Não esta medindo temperatura maq05;12:00:00;12:17:00;0:17:00;APROVADA;CONSERTO;NÃO
+23/08/2022;PULTRUSORA;5;2;985;CORR;MEC;Executado ;TRAÇÃO;Problemas no pulwe puxador está lento quebrando as peças;16:20:00;17:38:00;1:18:00;APROVADA;CONSERTO;SIM
+12/08/2022;PULTRUSORA;4;1;985;CORR;ELET;Ajustado set point;ELÉTRICO;Tomada 4 não funciona;11:20:00;11:30:00;0:10:00;APROVADA;CONSERTO;SIM
+04/08/2022;PULTRUSORA;4;2;985;CORR;MEC;Verificado painel e regulado velocidade do puxador;ELÉTRICO;Maquina 4 alarme;17:30:00;18:00:00;0:30:00;APROVADA;CONSERTO;SIM
+02/08/2022;PULTRUSORA;6;2;985;CORR;MEC;Feito troca engate rapido ;CORTE;Serra mangueira de ar estourou;16:10:00;17:00:00;0:50:00;APROVADA;TROCA;NÃO
+07/08/2022;PULTRUSORA;6;1;985;CORR;MEC;Feito regulagem pistão hidraulico;PNEUMÁTICO;Travou;10:00:00;12:00:00;2:00:00;APROVADA;CONSERTO;SIM
+04/08/2022;PULTRUSORA;2;2;985;CORR;MEC;Feito ajuste valvula pressão pneumatica maquina;TRAÇÃO;Puxador desregulado;17:00:00;18:00:00;1:00:00;APROVADA;CONSERTO;SIM
+26/08/2022;PULTRUSORA;4;2;985;CORR;ELET;TROCA SENSOR;ELÉTRICO;Não esta funcionando;14:00:00;14:25:00;0:25:00;APROVADA;CONSERTO;SIM
+16/08/2022;PULTRUSORA;4;2;985;CORR;MEC;Chave acionador hidraulico em curto feito troca;TRAÇÃO;Chave do puxador não esta acionando comando;14:40:00;15:20:00;0:40:00;APROVADA;TROCA;SIM
+26/08/2022;PULTRUSORA;6;1;985;CORR;MEC;Executado ;CORTE;Vazamento de ar pistão da serra de corte;7:20:00;7:40:00;0:20:00;APROVADA;CONSERTO;SIM
+31/08/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito ajuste das valvulas;CORTE;Sensor da serra não está funcionando;13:50:00;15:00:00;1:10:00;APROVADA;CONSERTO;SIM
+27/08/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito ajuste serra e valvula ;CORTE;Serra não está acionando, não está subindo para cortar a peça;10:20:00;11:20:00;1:00:00;APROVADA;CONSERTO;SIM
+25/08/2022;PULTRUSORA;5;2;985;CORR;MEC;Feito ajuste nas valvulas pneumaticas;CORTE;Serra não esta fazendo corte;17:17:00;18:00:00;0:43:00;APROVADA;CONSERTO;SIM
+30/08/2022;PULTRUSORA ;5;1;985;CORR;ELET;Troca de sensor PNP (Quebrou devido estar instalado na direção do perfil);CORTE;Sensor danificado;9:20:00;9:40:00;0:20:00;APROVADA;INSTALAÇÃO;SIM
+19/08/2022;SERRA CIRCULAR;0;1;985;CORR;MEC;Trocado disco ;CORTE;Trocar disco de corte/enviar afiar disco;10:30:00;12:30:00;2:00:00;APROVADA;CONSERTO;SIM
+01/09/2022;PULTRUSORA;4;2;985;CORR;MEC;Executado ;CORTE;Serra não está voltando;14:58:00;15:30:00;0:32:00;APROVADA;CONSERTO;SIM
+03/09/2022;PULTRUSORA;6;1;985;CORR;MEC;Troca de pistõa, regulagem da serra;CORTE;Não está acionando o pistão da serra;8:00:00;9:00:00;1:00:00;APROVADA;TROCA;SIM
+20/09/2022;PULTRUSORA;6;2;985;CORR;MEC;Efetuado troca de 02 pistões da serra;CORTE;Serra não está funcionando esta subindo a parte do pistão;16:15:00;16:45:00;0:30:00;APROVADA;TROCA;SIM
+20/09/2022;PULTRUSORA;4;2;985;CORR;ELET;Verificado tomada mau contato;ELÉTRICO;Tomada 1 com defeito não está aquecendo;15:55:00;16:05:00;0:10:00;APROVADA;CONSERTO;SIM
+17/09/2022;PULTRUSORA;4;2;985;CORR;ELET;Identificado problema no botão de emergencia;ELÉTRICO;Não liga o painel;16:20:00;16:40:00;0:20:00;APROVADA;CONSERTO;SIM
+29/09/2022;PULTRUSORA;6;2;985;CORR;MEC;Executado ;CORTE;Pistão que trava a peça p/cortar não está acostumado;13:00:00;13:49:00;0:49:00;APROVADA;TROCA;SIM
+04/10/2022;SERRA;6;1;985;CORR;MEC;Troca de mangueira do ar;PNEUMÁTICO;Mnagueira de ar furada;12:25:00;12:35:00;0:10:00;APROVADA;TROCA;SIM
+28/09/2022;PULTRUSORA;5;1;985;PREV;MEC;Verificado termopar e constado nenhum problema;ELÉTRICO;Falha no termopar;8:50:00;9:00:00;0:10:00;APROVADA;CONSERTO;SIM
+28/09/2022;PULTRUSORA;6;1;985;CORR;ELET;Feito emenda na corrente;ELÉTRICO;Marcador de velocidade danificado ( corrente arrebentou);9:00:00;9:50:00;0:50:00;APROVADA;CONSERTO;NÃO
+24/09/2022;PULTRUSORA;4;2;985;CORR;MEC;Recolocando mesa no lugar;ELÉTRICO;Serra problema na mesa;17:00:00;17:30:00;0:30:00;APROVADA;CONSERTO;SIM
+24/09/2022;PULTRUSORA;5;1;985;CORR;ELET;Troca 2 termopares e 02 plugs femea;ELÉTRICO;Termopar não está controlando a temperatura tomada danificada;11:30:00;12:30:00;1:00:00;APROVADA;CONSERTO;NÃO
+15/09/2022;PULTRUSORA;4;1;985;CORR;MEC;Foi feito regulagem do sensor serra;CORTE;Não está acionando o laser da serra de corte;9:20:00;9:50:00;0:30:00;APROVADA;CONSERTO;SIM
+16/09/2022;PULTRUSORA ;5;2;985;CORR;MEC;Regulagem sensor pistão;CORTE;Não esta acionando a serra do corte;17:06:00;17:25:00;0:19:00;APROVADA;CONSERTO;SIM
+20/09/2022;PULTRUSORA;6;1;985;CORR;MEC;Substituição rele estado sólido;ELÉTRICO;Rele não esta travando, esta super aquecendo (tomada 2 ) repor termopar 11-12;9:20:00;9:40:00;0:20:00;APROVADA;CONSERTO;SIM
+20/09/2022;PULTRUSORA;4;1;985;CORR;MEC;Substituição de botão;ELÉTRICO;Botão puxador danificado;10:00:00;10:10:00;0:10:00;APROVADA;CONSERTO;SIM
+21/09/2022;PULTRUSORA;5;1;985;CORR;MEC;Executado ;CORTE;Serra de corte não esta acionando puxador ;8:16:00;9:00:00;0:44:00;APROVADA;CONSERTO;SIM
+15/09/2022;PULTRUSORA;4;3;985;CORR;MEC;Feito troca do controle fim curso pultrusora 04;PNEUMÁTICO;Sem a tampa de chuva de liberação;16:28:00;17:00:00;0:32:00;APROVADA;TROCA;NÃO
+30/09/2022;PULTRUSORA;4;2;985;CORR;MEC;"Emenda fio termopar obs; problema botão de emergencia";ELÉTRICO;Tomada 1 e 2 não está funcionando ;17:15:00;17:35:00;0:20:00;APROVADA;CONSERTO;SIM
+23/09/2022;PULTRUSORA;5;1;985;CORR;MEC;Executado ;CORTE;Não está acionando a serra de corte;12:00:00;12:30:00;0:30:00;APROVADA;CONSERTO;SIM
+29/09/2022;SERRA;4;3;985;CORR;ELET;Trocado sensor modificado;CORTE;Sensor quebrada / peças danificadas e sensor;8:30:00;8:45:00;0:15:00;APROVADA;TROCA;SIM
+07/09/2022;PULTRUSORA;4;1;985;CORR;ELET;Troca de sensor  ;CORTE;Não está funcionando a serra de corte;8:10:00;9:00:00;0:50:00;APROVADA;TROCA;SIM
+29/09/2022;PULTRUSORA;5;1;985;CORR;ELET;Colocado lâmpada;PNEUMÁTICO;Problema hidraulico;10:00:00;10:22:00;0:22:00;APROVADA;INSTALAÇÃO;SIM
+29/09/2022;PULTRUSORA;4;1;985;CORR;ELET;Efetuado troca de termopar;ELÉTRICO;Termopar danificado;12:15:00;12:30:00;0:15:00;APROVADA;TROCA;NÃO
+29/09/2022;PULTRUSORA;6;1;985;CORR;ELET;Trocado 2 termopares que estavam falhando, revisado tomadas e verificado que 1 estava desconectado ;ELÉTRICO;Termopar e tomadas;10:00:00;11:45:00;1:45:00;APROVADA;CONSERTO;NÃO
+29/09/2022;PULTRUSORA;5;1;985;CORR;ELET;Trocado 2 botões do painel;ELÉTRICO;Botões painel quebrado;11:50:00;12:30:00;0:40:00;APROVADA;CONSERTO;NÃO
+27/09/2022;PULTRUSORA;5;1;985;CORR;ELET;Executado ;CORTE;Laser não esta funcionando e não está acionando a serra de corte ;10:00:00;11:30:00;1:30:00;APROVADA;CONSERTO;NÃO
+27/09/2022;PULTRUSORA;5;1;985;CORR;MEC;Executado ;PNEUMÁTICO;Mangueira de ar;13:00:00;13:30:00;0:30:00;APROVADA;CONSERTO;SIM
+27/09/2022;SERRA;4;2;985;CORR;MEC;Trocado botão  ;CORTE;Botão da serra manual quebrado;14:40:00;14:50:00;0:10:00;APROVADA;TROCA;SIM
+28/09/2022;PULTRUSORA;6;2;985;CORR;MEC;Colocado corrente novamente no lugar;CORTE;Corrente arrebentada;16:00:00;16:15:00;0:15:00;APROVADA;CONSERTO;NÃO
+08/09/2022;SERRA;1;2;985;CORR;MEC;Regulagem da valvula do pistão da serra;CORTE;Serra quebrando as peças, serra esta torta;18:00:00;18:30:00;0:30:00;APROVADA;CONSERTO;SIM
+08/09/2022;PULTRUSORA;1;1;985;CORR;MEC;Troca cotovelo 10mm ;PNEUMÁTICO;Problema na mangueira do pistão da serra;14:10:00;14:25:00;0:15:00;APROVADA;CONSERTO;SIM
+08/09/2022;PULTRUSORA;1;1;985;CORR;ELET;Troca de sensor danificado;CORTE;Não está acionando a serra de corte;9:55:00;10:15:00;0:20:00;APROVADA;TROCA;SIM
+07/09/2022;FURADEIRA DE BANCADA;0;1;985;CORR;MEC;Troca das correia;CORTE;Sem força p/ furar as peças;11:00:00;11:30:00;0:30:00;APROVADA;TROCA;SIM
+06/10/2022;PULTRUSORA;4;1;985;CORR;MEC;Reapertar parafusos dos pistões, pistão solto;TRAÇÃO;Pistão solto;11:30:00;12:30:00;1:00:00;APROVADA;CONSERTO;NÃO
+05/10/2022;PULTRUSORA;1;1;985;CORR;MEC;Troca dos discos;CORTE;Discos de corte gastos realizar a troca;7:30:00;9:30:00;2:00:00;APROVADA;INSTALAÇÃO;SIM
+02/10/2022;PULTRUSORA;4;2;985;CORR;MEC;Regulagem e ajuste do sensor ;CORTE;Serra não está fazendo leitura sensor;17:30:00;18:30:00;1:00:00;APROVADA;CONSERTO;SIM
+01/10/2022;TALHA;0;1;985;CORR;ELET;Após inspeção foi encontrado disjuntor com fase rompido e cabo danificado substituição cabo e disjuntor;ELÉTRICO;Talha não está funcionando deu curto;13:40:00;16:00:00;2:20:00;APROVADA;CONSERTO;SIM
+04/10/2022;PULTRUSORA;4;2;985;CORR;ELET;Efetuado troca de sensor danificado;CORTE;Problemas sensro não está cortando;16:00:00;16:15:00;0:15:00;APROVADA;CONSERTO;SIM
+07/10/2022;PULTRUSORA;4;1;985;CORR;MEC;Realizado limpeza e molhora em cabos e reles refeito ligação sensor comando e liberado;CORTE;Não está funcionando o sensor não está acionando a serra;8:00:00;8:40:00;0:40:00;APROVADA;CONSERTO;SIM
+08/10/2022;PULTRUSORA;5;2;985;CORR;MEC;Fixado nova peça que estava solta;TRAÇÃO;Caiu uma peça puxador;15:50:00;16:20:00;0:30:00;APROVADA;CONSERTO;NÃO
+01/10/2022;TALHA;0;1;985;CORR;ELET;Após inspeção foi encontrado disjuntor com fase rompido e cabo danificado substituição cabo e disjuntor;ELÉTRICO;Talha não está funcionando deu curto;10:30:00;15:00:00;2:30:00;APROVADA;CONSERTO;SIM
+13/10/2022;PULTRUSORA;2;2;985;CORR;MEC;Verificcado circuito e sistema hidraulico;PNEUMÁTICO;Serra não está funcionando;15:25:00;16:35:00;1:10:00;APROVADA;CONSERTO;SIM
+06/10/2022;PULTRUSORA;4;1;985;CORR;MEC;Conexão 1/2 polegadas 3 metros mangueiras;PNEUMÁTICO;Conexão mangueira de ar;7:30:00;7:40:00;0:10:00;APROVADA;CONSERTO;SIM
+05/10/2022;PULTRUSORA;5;1;985;CORR;ELET;Fio solto na botoeira de emergencia;ELÉTRICO;O sistema nõa deixa ligar o motor da maquina ;7:30:00;7:50:00;0:20:00;APROVADA;CONSERTO;NÃO
+13/10/2022;PULTRUSORA;4;2;985;CORR;ELET;Efetuado troca de termopar;ELÉTRICO;Verificação cabo 1 e 2 esta sobre aquecendo;18:00:00;18:35:00;0:35:00;APROVADA;TROCA;NÃO
+15/10/2022;SERRA ;6;2;985;CORR;MEC;Tirado serra da maquina 1 para colocar na serra da maquina 6;CORTE;Serra não está cortando;17:00:00;18:15:00;1:15:00;APROVADA;TROCA;SIM
+15/10/2022;SERRA;6;3;985;CORR;MEC;Feito reaperto no fim do curso;CORTE;Não desliga./acionamento;20:50:00;21:00:00;0:10:00;APROVADA;CONSERTO;NÃO
+14/10/2022;PULTRUSORA;5;2;985;CORR;MEC;Reapertado sensor por onde vazava óleo;PNEUMÁTICO;Vazamento de óleo pistão;17:35:00;17:45:00;0:10:00;APROVADA;CONSERTO;SIM
+13/10/2022;SERRA;4;2;985;CORR;MEC;Troca do conector;CORTE;Mangueira esta escapando troca de conector;15:30:00;16:00:00;0:30:00;APROVADA;TROCA;NÃO
+14/10/2022;PULTRUSORA;5;1;985;CORR;ELET;Substituição de termopar uma tomada faltando;ELÉTRICO;Termopar 7 e 8 não está funcionando;13:10:00;13:30:00;0:20:00;APROVADA;TROCA;SIM
+14/10/2022;SERRA;6;1;985;CORR;MEC;Limpeza no painel, reaperto dos parafusos;ELÉTRICO;Sensor note;7:30:00;8:00:00;0:30:00;APROVADA;CONSERTO;SIM
+12/10/2022;PULTRUSORA;3;3;985;CORR;ELET;Verificado tomadas e trocado 03 termopares;ELÉTRICO;Verificar cabos de termopar e tomadas;23:00:00;0:15:00;1:15:00;APROVADA;TROCA;NÃO
+08/10/2022;PULTRUSORA;5;3;985;CORR;ELET;Trocado termopar;ELÉTRICO;Termopar não esta fazendo a leitura;22:00:00;22:15:00;0:15:00;APROVADA;TROCA;NÃO
+08/10/2022;PULTRUSORA;4;2;985;CORR;ELET;Efetuado troca de termopar;ELÉTRICO;Termopar com defeito;18:15:00;18:30:00;0:15:00;APROVADA;TROCA;NÃO
+08/10/2022;PULTRUSORA;4;2;985;CORR;MEC;Colocado mesa no lugar;CORTE;Serra messa desregulada;18:00:00;18:10:00;0:10:00;APROVADA;CONSERTO;NÃO
+20/10/2022;SERRA;5;2;985;CORR;MEC;Feito regulagem no sensor da serra;CORTE;Cortando torto a peça;16:30:00;17:00:00;0:30:00;APROVADA;CONSERTO;NÃO
+20/10/2022;MANGUEIRAS;0;1;985;CORR;MEC;Feito montagem de mangueira;PNEUMÁTICO;Montagem mangueira 8M com pino e válvula;10:43:00;10:50:00;0:07:00;APROVADA;INSTALAÇÃO;NÃO
+21/10/2022;PULTRUSORA;6;1;985;CORR;MEC;Troca de mangueira / engate rapido / abraçadeiras;PNEUMÁTICO;Vazamento de ar  na mangueira;10:00:00;10:10:00;0:10:00;APROVADA;TROCA;NÃO
+19/10/2022;PULTRUSORA;4;1;985;CORR;ELET;Feito regulagem dos sensores fim de curso maquina;CORTE;Sensor não estava acionando a serra;8:20:00;8:50:00;0:30:00;APROVADA;CONSERTO;NÃO
+17/10/2022;SERRA;6;1;985;CORR;ELET;Foi feito fixação do sensor serra estava caido;CORTE;Problema sensor da serra;8:30:00;9:06:00;0:36:00;APROVADA;CONSERTO;NÃO
+21/10/2022;PULTRUSORA;5;3;985;CORR;ELET;Troca de fonte 24v e eliminado curto circuito no cabo 24v;ELÉTRICO;Não liga o painel de comando da maquina / falha na serra;19:30:00;23:50:00;4:20:00;APROVADA;TROCA;SIM
+23/10/2022;SERRA;1;1;994;CORR;MEC;Regulagem da serra;CORTE;Não esta cortando;10:00:00;10:20:00;0:20:00;APROVADA;CONSERTO;SIM
+20/10/2022;SERRA;1;1;985;CORR;MEC;Colocado disco;CORTE;Instalar disco serra;11:00:00;11:30:00;0:30:00;APROVADA;CONSERTO;NÃO
+16/10/2022;PULTRUSORA;6;1;985;CORR;MEC;Regulado valvula do pistão;PNEUMÁTICO;Serra não esta descendo, prejudicando a peça;8:24:00;8:30:00;0:06:00;APROVADA;CONSERTO;NÃO
+19/11/2022;PULTRUSORA;3;1;985;CORR;MEC;Troca de serra;CORTE; Serra não esta acion acionando;7:10:00;14:00:00;7:00:00;APROVADA;CONSERTO;NÃO
+22/11/2022;PULTRUSORA;5;1;985;CORR;MEC;Retirada de material que estava travando o disco;CORTE;Serra não funcionando;8:00:00;10:00:00;2:00:00;APROVADA;CONSERTO;SIM
+14/11/2022;PULTRUSORA;4;1;985;CORR;MEC;Retirada de parafusos quebrados um cilindro havia quebrado substituição de 1 cilindro e de 06 parafusos danificados;TRAÇÃO;Quebra parafusos puxador;8:00:00;14:00:00;5:00:00;APROVADA;CONSERTO;SIM
+09/11/2022;PULTRUSORA;6;1;985;CORR;MEC;Reaperto na conexão  ;PNEUMÁTICO;Vazamento de óleo mangueira;10:40:00;10:55:00;0:15:00;APROVADA;CONSERTO;SIM
+04/11/2022;SERRA;2;3;985;CORR;ELET;Ajustado sensor da serra;CORTE;Sensor não funciona;16:45:00;17:15:00;0:30:00;APROVADA;CONSERTO;NÃO
+10/11/2022;PULTRUSORA;6;1;985;CORR;MEC;Efetuado troca fim de curso;TRAÇÃO;Problema puxador ;12:15:00;12:45:00;0:30:00;APROVADA;TROCA;NÃO
+11/11/2022;PULTRUSORA;5;1;995;CORR;MEC;Disjuntor desarmado, regulagem nos pistões alinhamento maquina;ELÉTRICO;Serra não esta acionando;7:40:00;8:10:00;0:30:00;APROVADA;CONSERTO;SIM
+11/11/2022;PULTRUSORA;5;2;985;CORR;ELET;Trocado sensor da serra;CORTE;Sensor não esta duncionando;16:25:00;16:50:00;0:25:00;APROVADA;TROCA;NÃO
+12/11/2022;PULTRUSORA;5;1;985;CORR;MEC;Feito lubrificação nos pistões da serra;CORTE;Serra esta travando pistão;9:40:00;9:50:00;0:10:00;APROVADA;CONSERTO;NÃO
+18/11/2022;PULTRUSORA;2;1;985;CORR;MEC;Regulado pressão do pistão e lubrificado pistão da serra;PNEUMÁTICO;Serra não está descendo por completo vindo assim danificando as peças;12:35:00;12:55:00;0:20:00;APROVADA;CONSERTO;NÃO
+16/11/2022;PULTRUSORA;4;1;985;CORR;ELET;Troca de tomada 2 termopar controlador temperatura;ELÉTRICO;Tomada 4 não esta funcionando;11:10:00;12:50:00;1:40:00;APROVADA;TROCA;SIM
+19/11/2022;SERRA;6;1;985;CORR;MEC;Lubrificado pistão e fixado proteção da serra;CORTE;Pistão preso e proteção solta;8:30:00;8:45:00;0:15:00;APROVADA;CONSERTO;NÃO
+19/11/2022;SERRA CIRCULAR ;0;1;985;CORR;MEC;Troca de disco;CORTE;Sem disco;8:00:00;8:20:00;0:20:00;APROVADA;TROCA;SIM
+03/11/2022;SERRA;2;2;985;CORR;ELET;Conectado cabo de alimentação do motor;CORTE;Não está ligando a serra;15:50:00;16:15:00;0:25:00;APROVADA;CONSERTO;SIM
+03/11/2022;PULTRUSORA ;6;1;985;CORR;ELET; Feito revisão nos cabos de energia e termopares trocado 01 tomada steck femea e 08 termopares tipo J;ELÉTRICO;Revisão de todas as tomadas;10:00:00;15:15:00;5:15:00;APROVADA;CONSERTO;NÃO
+08/11/2022;PULTRUSORA;5;1;985;CORR;MEC;Parafuso quebrado;TRAÇÃO;Quebra de parafuso puxador 3;10:00:00;16:00:00;6:00:00;APROVADA;CONSERTO;NÃO
+25/11/2022;PULTRUSORA;6;1;985;CORR;ELET;Localizado e feito emenda no cabo rompido da serrra;CORTE;Serra não está acionando ;14:20:00;15:00:00;0:40:00;APROVADA;CONSERTO;NÃO
+24/11/2022;PULTRUSORA;2;2;985;CORR;MEC;Consertado mangueira furada;PNEUMÁTICO;Vazamento de ar mangueira serra;14:00:00;14:10:00;0:10:00;APROVADA;CONSERTO;SIM
+25/11/2022;PULTRUSORA;3;2;985;CORR;MEC;Trocado abraçadeira;PNEUMÁTICO;Mangueira vazamento de ar;17:55:00;18:05:00;0:10:00;APROVADA;TROCA;NÃO
+22/11/2022;PULTRUSORA;4;1;985;CORR;MEC;Feito aterramento, revisado cabos e trocado eletroduto;ELÉTRICO;Serra dando choque;8:30:00;18:30:00;10:00:00;APROVADA;CONSERTO;SIM
+23/11/2022;PULTRUSORA;5;2;985;CORR;ELET;Resistencia em curto circuito retirada a mesma p/ substituição pela produção;ELÉTRICO;Resistencia não esta funcionando;15:15:00;15:20:00;0:05:00;APROVADA;CONSERTO;SIM
+22/11/2022;PULTRUSORA;2;1;985;CORR;MEC;Feito troca tubo hidraulico estava vazando;PNEUMÁTICO;Vazamento de óleo;9:00:00;11:00:00;2:00:00;APROVADA;TROCA;SIM
+24/11/2022;SERRA;6;1;985;CORR;MEC;Feito a regulagem do sensor fora de posição;CORTE;Serra não esta cortando perfil;9:55:00;10:00:00;0:05:00;APROVADA;CONSERTO;NÃO
+05/11/2022;PULTRUSORA;4;1;985;CORR;MEC;Reinstalado suporte guia da tubulação;CORTE;Serra suporte da guia fora;9:45:00;10:00:00;0:15:00;APROVADA;CONSERTO;SIM
+04/11/2022;PULTRUSORA;4;2;985;CORR;ELET;Termopar com defeito;ELÉTRICO;Reistencia 1 e 2;14:15:00;15:00:00;0:45:00;APROVADA;CONSERTO;SIM
+01/11/2022;PULTRUSORA;5;2;985;CORR;MEC;Feito troca pistão feito regulagem valvula hidraulico;TRAÇÃO;Maquina travando pistão;17:00:00;21:00:00;4:00:00;APROVADA;TROCA;SIM
+02/12/2022;SERRA CIRCULAR ;0;1;985;CORR;MEC;Troca de mola;CORTE;Serra não está voltando;8:30:00;9:25:00;0:55:00;APROVADA;TROCA;NÃO
+02/12/2022;SERRA;4;2;985;CORR;MEC;Regulado ar do pistão da mesa da serra;CORTE;Sensor da serra não está funcionando;16:00:00;16:15:00;0:15:00;APROVADA;CONSERTO;NÃO
+04/12/2022;SERRA;4;1;985;CORR;MEC;Após inspeção encontrado cabo rompido do chicote do cabeamento comando maquina;CORTE;Não esta acionando a serra de corte;8:05:00;9:30:00;1:25:00;APROVADA;CONSERTO;NÃO
+;;;;;;;;;;;;;;;
